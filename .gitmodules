@@ -1,0 +1,3 @@
+[submodule "lib/pip_repo"]
+	path = lib/pip_repo
+	url = https://github.com/pypa/pip
